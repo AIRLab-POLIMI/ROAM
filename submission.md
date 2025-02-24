@@ -3,7 +3,9 @@ layout: default
 ---
 
 **Submission details**
-Submissions can fall in one of the following categories:
+TBD
+
+<!--Submissions can fall in one of the following categories:
 * Research papers (4 pages including references)
 * Short papers (2 pages including references)
 * Posters (with 1-page abstract excluding references)
@@ -14,4 +16,4 @@ All submissions must be formatted in A4, two-column IEEE style, in accordance wi
 We will also arrange for all remaining accepted papers to be published in the [CEUR workshop proceedings series](https://ceur-ws.org/index.html).  
 
 
-Submit your paper via [Easychair](https://easychair.org/conferences/submission_track?track=305510&a=31269636).  
+Submit your paper via [Easychair](https://easychair.org/conferences/submission_track?track=305510&a=31269636).  -->

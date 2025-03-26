@@ -37,4 +37,4 @@ Submissions can fall into one of the following categories:
 Prospective authors must format their papers in a single-column layout on 21 cm x 29.7 cm A4-size paper following the [IAS-19 submission guidelines](https://ias-19.org/paper-submission/).
 
 
-Submit your paper via [Easychair]().  
+Submit your paper via [Easychair](https://easychair.org/conferences/submission_new?a=34336134).  
